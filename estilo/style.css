@@ -29,6 +29,7 @@ header {
 }
 
 header > h1 {
+    color: rgba(236, 196, 120, 0.486);
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
@@ -55,7 +56,7 @@ section > p {
 }
 
 section.normal {
-    background-color: white;
+    background-color: rgba(245, 222, 179, 0.281);
     color: black;
     
 }
