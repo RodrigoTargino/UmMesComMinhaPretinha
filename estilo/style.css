@@ -17,7 +17,7 @@
 
 html, body {
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: rgb(253, 217, 217);
     font-family: var(--fonte1);
 }
 
@@ -61,7 +61,7 @@ header > h1 {
 }
 
 header > h2 {
-    color: rgba(236, 196, 120, 0.486);
+    color: rgba(226, 1, 87, 0.486);
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
